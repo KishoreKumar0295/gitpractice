@@ -1,3 +1,4 @@
 ### GIT AND GITHUB Tutorial
 ## Krsih Naik
-### Github Tutorailsgit
+### Github Tutorails
+### Krish Github 1st class
